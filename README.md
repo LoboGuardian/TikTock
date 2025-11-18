@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey everyone! 👋
-You can now try TikTock for the web here: https://tiktock-web.vercel.app/￼
+You can now try TikTock for the web here: https://tiktock-web.vercel.app/
 
 # TikTock - TikTok Video Downloader
 
